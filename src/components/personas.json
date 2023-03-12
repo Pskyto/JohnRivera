@@ -1,0 +1,31 @@
+{
+    "personas":[
+    {
+        "id": "1",
+        "nombre": "John Rivera",
+        "area": "IT"
+        
+    },
+    {
+        "id": "2",
+        "nombre": "Maria Rodriguez",
+        "area": "GH"
+        
+    },
+    {
+        "id": "3",
+        "nombre": "Daniela Duran",
+        "area": "HSEQ"
+        
+    },
+    {
+        "id": "4",
+        "nombre": "Gustavo Cerreño",
+        "area": "Legal"
+    
+    }
+
+
+]
+
+}

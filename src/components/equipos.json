@@ -1,0 +1,33 @@
+{
+    "equipos":[ 
+                {   
+                    "tipo": "Portatil",
+                    "marca": "Lenovo",
+                    "estado": "Sin Asignar"
+                },
+                {
+                    "tipo": "Portatil",
+                    "marca": "Dell",
+                    "estado": "Sin Asignar"
+                },
+                {
+                    "tipo": "Portatil",
+                    "marca": "HP",
+                    "estado": "Sin Asignar"
+                },
+                {
+                    "tipo": "Portatil",
+                    "marca": "Acer",
+                    "estado": "Sin Asignar"
+                }
+
+        
+    ]
+
+ 
+
+    
+
+    
+
+}
