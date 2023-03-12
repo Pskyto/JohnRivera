@@ -1,3 +1,5 @@
+// Trabajo de John Alexander Rivera Rivera
+
 import logo from './components/logo.svg';
 import './App.css';
 import React, { Component } from 'react';
